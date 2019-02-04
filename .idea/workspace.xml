@@ -25,8 +25,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="459">
+              <caret line="27" column="9" selection-start-line="24" selection-start-column="12" selection-end-line="27" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jenkins/scripts/deliver.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -65,6 +74,17 @@
             <path>
               <item name="my-app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="my-app" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="my-app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="my-app" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="jenkins" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="my-app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="my-app" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="jenkins" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="scripts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -107,12 +127,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549253418774</updated>
       <workItem from="1549253422526" duration="130000" />
-      <workItem from="1549253633285" duration="662000" />
+      <workItem from="1549253633285" duration="801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="792000" />
+    <option name="totallyTimeSpent" value="931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="34" width="1381" height="885" extended-state="6" />
@@ -159,10 +179,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jenkins/scripts/deliver.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="459">
+          <caret line="27" column="9" selection-start-line="24" selection-start-column="12" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
